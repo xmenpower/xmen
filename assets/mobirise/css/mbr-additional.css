@@ -1349,8 +1349,8 @@ section.lazy-placeholder:after {
   z-index: auto;
 }
 .cid-s7puicU5GD {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #000000;
 }
 .cid-s7puicU5GD .title {
@@ -1358,7 +1358,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7puicU5GD .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-s7puicU5GD a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1369,4 +1369,8 @@ section.lazy-placeholder:after {
 }
 .cid-s7puicU5GD textarea.form-control {
   min-height: 188px;
+}
+.cid-s7puicU5GD LABEL {
+  color: #ffffff;
+  text-align: center;
 }
