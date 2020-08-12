@@ -1351,14 +1351,14 @@ section.lazy-placeholder:after {
 .cid-s7puicU5GD {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-s7puicU5GD .title {
   margin-bottom: 2rem;
 }
 .cid-s7puicU5GD .mbr-section-subtitle {
-  color: #efefef;
-  text-align: center;
+  color: #ffffff;
+  text-align: left;
 }
 .cid-s7puicU5GD a:not([href]):not([tabindex]) {
   color: #fff;
