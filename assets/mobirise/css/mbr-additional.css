@@ -1219,7 +1219,7 @@ section.lazy-placeholder:after {
 .cid-s7B8I93FnW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #000000;
+  background-color: #4f4943;
 }
 .cid-s7B8I93FnW .mbr-section-subtitle {
   color: #767676;
@@ -1617,6 +1617,21 @@ section.lazy-placeholder:after {
 .cid-s7BdQHoMeZ H2 {
   text-align: center;
 }
+.cid-s7BkKuL6Vl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/first-img-1.jpeg");
+}
+.cid-s7BkKuL6Vl DIV {
+  text-align: center;
+}
+.cid-s7BkKuL6Vl H2 {
+  color: #ffffff;
+}
+.cid-s7BkKuL6Vl .mbr-text,
+.cid-s7BkKuL6Vl .mbr-section-btn {
+  text-align: center;
+}
 .cid-s7BhImOFxO {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1666,21 +1681,6 @@ section.lazy-placeholder:after {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
-}
-.cid-s7BkKuL6Vl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/first-img-1.jpeg");
-}
-.cid-s7BkKuL6Vl DIV {
-  text-align: center;
-}
-.cid-s7BkKuL6Vl H2 {
-  color: #ffffff;
-}
-.cid-s7BkKuL6Vl .mbr-text,
-.cid-s7BkKuL6Vl .mbr-section-btn {
-  text-align: center;
 }
 .cid-s7BhSDsdi5 {
   padding-top: 15px;
